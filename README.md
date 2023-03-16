@@ -1,6 +1,6 @@
 ## DEMO
 
-🚀[View Demo](https://react-netflix-clone-beta.vercel.app/)
+🚀[View Demo](https://react-ntflx-jc.netlify.app/)
 
 # React Netflix Clone App
 
