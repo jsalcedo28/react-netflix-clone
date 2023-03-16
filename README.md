@@ -1,10 +1,10 @@
-# React Netflix Clone App
-
-This is a clone of Netflix website built using React.JS as a Front-end & Firebase as Back-end. It's not a replica, and it doesn't have all the features of Netflix website. it's a similar version of Netflix with my own design touch, showing my abilities in React.JS to build something advanced like Netflix.
-
 ## DEMO
 
-🚀[View Demo](https://react-netflix-clone-beta.vercel.app/)
+🚀[View Demo](https://react-ntflx-jc.netlify.app/)
+
+# React Netflix Clone App
+
+This is a clone of Netflix website built using React.JS as a Front-end & Firebase as Back-end. It's not a replica, and it doesn't have all the features of Netflix website. it's a similar version of Netflix with my own design touch, showing my abilities in React.JS
 
 ## Available Scripts
 
